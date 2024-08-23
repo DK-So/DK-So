@@ -3,7 +3,7 @@ My name is Deniz K. Sogukpinar. I am for Brunswick in Lower Saxyon, Germany.
 I have a huge interesst in modern desgin and small coding Projects.
 
 - I'm currently working for Hitachi Solutions Germany GmbH
-- I'm currently learning C#, PowerApps and Python
+- I'm currently learning .net and Astro 
 #### I Use
   [![My Skills](https://skillicons.dev/icons?i=apple,notion,vscode,cs)](https://skillicons.dev)
 
