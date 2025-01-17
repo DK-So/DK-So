@@ -5,7 +5,7 @@ I have a huge interesst in modern desgin and small coding Projects.
 - I'm currently working for Hitachi Solutions Germany GmbH
 - I'm currently learning .net and C++ 
 #### I Use
-  [![My Skills](https://skillicons.dev/icons?i=apple,notion,vscode,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=apple,obsidian,vscode,cs)](https://skillicons.dev)
 
 #### My Social - Let's connect 🫱🏽‍🫲🏽
   [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/denksog?igsh=MTcycmJtZnUzZHIxZw%3D%3D&utm_source=qr)
