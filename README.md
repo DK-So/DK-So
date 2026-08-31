@@ -3,7 +3,7 @@ My name is Deniz K. Sogukpinar. I am for Brunswick in Lower Saxyon, Germany.
 I have a huge interesst in modern desgin and small coding Projects.
 ### Currently Occupation
 - I'm currently working for Hitachi Solutions Europe Ltd.
-- I'm currently learning React and Rust
+- I'm currently learning Python and ML
 ### I Use
   [![My Skills](https://skillicons.dev/icons?i=azure,apple,obsidian,vscode,cs)](https://skillicons.dev)
 
